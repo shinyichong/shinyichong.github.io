@@ -45,4 +45,9 @@ footer.mdl-mini-footer > ul {
    font-size:1.8rem;
  }  
 
+@media screen and (max-width: 1020px) {
+	header.mdl-layout__header{
+		display: flex;
+	}
+}
 
